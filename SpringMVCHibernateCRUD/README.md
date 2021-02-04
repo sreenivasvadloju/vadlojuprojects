@@ -2,7 +2,7 @@
 	1. Java 1.8
 	2. Spring Core, MVC and Context(5.2.4)
 	3. Hibernate
-	4. MySQL DB
+	4. MySQL Database
 	5. Tomcat 8.5
 	6. Maven
 
